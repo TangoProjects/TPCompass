@@ -1,0 +1,7 @@
+name: TPCompass
+version: 1.2
+main: me.tango.tpcompass.Main
+description: Random teleport on compass click
+author: Tango_
+prefix: TPC
+commands:

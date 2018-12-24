@@ -1,0 +1,11 @@
+# TPCompass config by Tango_
+
+# Set the maximum / minimum distance in blocks a player can teleport
+max-distance: 1000
+min-distance: 50
+
+# Set true if renamed activated clocks should only teleport to their saved location and disables random teleporting.
+rename-overwrite: true
+
+# Set in seconds the cooldown delay (No decimal points)
+cooldown-seconds: 2
